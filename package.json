@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-crash-course",
+  "version": "1.0.0",
+  "description": "this is description",
+  "homepage": "https://github.com/KaidoKasuk/nodejs-crash-course#readme",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/KaidoKasuk/nodejs-crash-course/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaidoKasuk/nodejs-crash-course.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
